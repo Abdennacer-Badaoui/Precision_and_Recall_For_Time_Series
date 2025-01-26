@@ -1,0 +1,8 @@
+dataset,Numenta_Standard,Numenta_Reward_Low_FP,Numenta_Reward_Low_FN
+aapl,-0.08,-0.16,-0.05
+ecg,0.96,0.93,0.97
+machine_temp,-1.0,-1.0,-1.0
+nyc_taxi,-0.15,-0.29,-0.10
+sine,0.65,0.58,0.655
+space_shuttle,-0.01,-0.04,-0.01
+timeguided,-0.15,-0.29,-0.10
